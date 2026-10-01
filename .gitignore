@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+# Local runtime data and incident evidence
+data/sandbox/
+logs/
+
+# Locally trained model artifacts
+models/saved/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
